@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AmazonMiniTVApp" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
