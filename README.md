@@ -6,7 +6,7 @@ This Android app allows you to access the Amazon Mini TV website on your Android
 
 To install the app on your TV manually, follow these steps:
 
-1. Go to the [Releases](https://github.com/your-username/your-repository/releases) page of this repository.
+1. Go to the [Releases](https://github.com/pawasagrwl/AndroidTVApp-AmazonMiniTV/releases) page of this repository.
 
 2. Download the latest APK file from the releases section.
 
