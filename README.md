@@ -2,6 +2,16 @@
 
 This Android app allows you to access the Amazon Mini TV website on your Android TV device.
 
+## Disclaimer
+
+***Important*: This app might go against Amazon's terms and policies. Use it at your own risk. The developer of this app is not responsible for any damage, legal consequences, or issues that may arise from using this application.**
+
+Please note that this app is not actively managed, and its functionality may not work for everyone or in all scenarios. It is intended for personal use only, and any usage beyond that is entirely at your own discretion.
+
+By using this app, you agree that you understand the potential risks involved and that you assume full responsibility for any consequences that may arise. The developer of this app disclaims all liability and is not liable for any damages or losses incurred while using the app.
+
+**Please use this app responsibly and respect the terms and conditions of the services you access through it.**
+
 ## How to Install
 
 To install the app on your TV manually, follow these steps:
